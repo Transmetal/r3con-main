@@ -38,7 +38,7 @@
 
 ### Install
 ```bash
-https://github.com/Transmetal/r3con-main
+git clone https://github.com/Transmetal/r3con-main
 cd r3con
 chmod +x install.sh r3con.sh
 ./install.sh
